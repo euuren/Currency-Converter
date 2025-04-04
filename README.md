@@ -7,7 +7,6 @@ A simple, user-friendly website for converting currencies with real-time exchang
 ### Core Functionality
 - **Real-time Currency Conversion**: Convert between 170+ global currencies with up-to-date exchange rates
 - **Intuitive Interface**: Clean, responsive design that works on desktop, tablet, and mobile devices
-- **Quick Conversion**: Instantly see conversion results as you type without page reloads
 
 ### Technical Highlights
 - **API Integration**: Powered by reliable currency exchange rate APIs
